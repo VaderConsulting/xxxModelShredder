@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.suo
+*.user
+.svn/
+_ReSharper*
+UpgradeLog.XML
+UpgradeLog.htm
