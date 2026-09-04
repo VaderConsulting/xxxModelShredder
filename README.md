@@ -17,6 +17,10 @@ Dave Robinson's working copy of Johannes Rudolph's C# ModelShredder that turns I
 
 Open `trunk/ModelShredder.sln` in Visual Studio 2012 or later (solution format 12.00 / Visual Studio 2012). Targets .NET Framework 3.5. The demo form `Demo` (`Text = "Model Shredder Demo"`) calls `TestObjects.List.ToDataTable()` on **Populate!** and shows the row count in `lblCount`. `trunk/Backup/ModelShredder.sln` opens the pre-upgrade Visual Studio 2008 copy.
 
+## Requirements
+
+- Visual Studio 2008 to 2012, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `xxxModelShredder` of Johannes Rudolph's ModelShredder library (Google Code, 2009). See `THIRD_PARTY_NOTICES.md`.
