@@ -23,7 +23,7 @@ Open `trunk/ModelShredder.sln` in Visual Studio 2012 or later (solution format 1
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `xxxModelShredder` of Johannes Rudolph's ModelShredder library (Google Code, 2009). See `THIRD_PARTY_NOTICES.md`.
+Working copy from my Historical Dev folder `xxxModelShredder` of Johannes Rudolph's ModelShredder library (Google Code, 2009). See `THIRD_PARTY_NOTICES.md`.
 
 - **Original author:** Johannes Rudolph (Google Code / SVN author `jojo.rudolph`)
 - **Original project:** http://code.google.com/p/modelshredder/ (archive: https://code.google.com/archive/p/modelshredder/)
