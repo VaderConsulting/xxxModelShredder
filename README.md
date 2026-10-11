@@ -37,4 +37,4 @@ Working copy from my Historical Dev folder `xxxModelShredder` of Johannes Rudolp
 
 ## License
 
-Original Johannes Rudolph / Google Code ModelShredder terms: LGPL (author's 2009 Stack Overflow notice; no license file in the OneDrive folder). This repository does **not** relicense the tree as VaderConsulting MIT. There is no separable Dave Robinson wrapper. See `LICENSE` and `THIRD_PARTY_NOTICES.md`.
+Original Johannes Rudolph / Google Code ModelShredder terms: LGPL (author's 2009 Stack Overflow notice; no license file in the OneDrive folder). This repository does **not** relicense the tree as Vader Consulting MIT. There is no separable Dave Robinson wrapper. See `LICENSE` and `THIRD_PARTY_NOTICES.md`.

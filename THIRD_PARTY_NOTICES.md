@@ -2,8 +2,8 @@
 
 This tree is Dave Robinson's working copy of Johannes Rudolph's C#
 ModelShredder library (Google Code project `modelshredder`, SVN trunk
-checkout). There is no separable VaderConsulting wrapper. Do not treat
-the library source as VaderConsulting MIT-licensed original work.
+checkout). There is no separable Vader Consulting wrapper. Do not treat
+the library source as Vader Consulting MIT-licensed original work.
 
 ## Johannes Rudolph / ModelShredder (2009)
 
